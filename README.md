@@ -9,10 +9,12 @@ MÅL: Få ett forhold til å lage hva som helst (How to make almost anything)
 
 TEMA: 
 
-## TIRSDAG: Omvisning, introduksjon 
 
-## ONSDAG: 
+## Program 
+### TIRSDAG: Omvisning, introduksjon 
 
-## TORSDAG: 
+### ONSDAG: 
 
-## FREDAG: 
+### TORSDAG: 
+
+### FREDAG: 
