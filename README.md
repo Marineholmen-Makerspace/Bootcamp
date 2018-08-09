@@ -11,7 +11,7 @@ TEMA:
 
 
 ## Program 
-### TIRSDAG: Omvisning, introduksjon 
+### TIRSDAG: Omvisning, introduksjon, presentasjon av Trygve & Frikk
 
 ### ONSDAG: WS
 
