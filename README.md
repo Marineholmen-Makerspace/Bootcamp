@@ -24,4 +24,4 @@ TEMA:
 
 - Lag pause-musikk oppgaver (ca en hver dag) 
 - Lag design med NodeMCU og lysdioder
-- 
+- Lag demo av CNC og laser 
