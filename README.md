@@ -18,3 +18,10 @@ TEMA:
 ### TORSDAG: 
 
 ### FREDAG: 
+
+
+### Oppgaver til Trygve og Frikk
+
+- Lag pause-musikk oppgaver (ca en hver dag) 
+- Lag design med NodeMCU og lysdioder
+- 
