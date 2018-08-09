@@ -13,7 +13,7 @@ TEMA:
 ## Program 
 ### TIRSDAG: Omvisning, introduksjon 
 
-### ONSDAG: 
+### ONSDAG: WS
 
 ### TORSDAG: 
 
