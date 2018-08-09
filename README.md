@@ -1,4 +1,4 @@
-# Bootcamp Inovasjon og Entrepenørskap 
+# Bootcamp Innovasjon og Entrepenørskap 
 UKE 42, 16 - 10 oktober
 
 4 dager, 42 studenter, 10 team 
