@@ -5,7 +5,7 @@ UKE 42, 16 - 10 oktober
 
 3D printing, laser, CNC, elektronikk
 
-MÅL: Få ett forhold til å lage hva som helst (How to make almost anything)
+MÅL: Få ett forhold til hvordan man kan prototype med moderne verktøy (How to make almost anything light)
 
 TEMA: 
 
