@@ -1,28 +1,31 @@
-# Bootcamp Innovasjon og Entrepenørskap 
+# Bootcamp Makerspace
 UKE 42, 16 - 10 oktober
 
-4 dager, 42 studenter, 10 team 
+4 dager, 30-ish studenter, 10 team 
 
 3D printing, laser, CNC, elektronikk
 
 MÅL: Få ett forhold til hvordan man kan prototype med moderne verktøy (How to make almost anything light)
 
-TEMA: 
-
-
 ## Program 
-### TIRSDAG: Omvisning, introduksjon, presentasjon av Trygve & Frikk
+### TIRSDAG: 
+- Introduksjon, presentasjon av Frikk & Trygve, omvisning
+- Trygve presenterer arduino og microbits 
+- Cardboard challange #1. Microbits vs cardboard
+- How to use machines. Frikk kjører lett introduksjon om de ulike maskinene på makerspacet og hvordan de kan brukes. 
 
-### ONSDAG: WS
+### ONSDAG: 
+- How to use a laser. Introduksjon til vector og raster
+- Cardboard challange #2. Lasers vs cardboard
 
 ### TORSDAG: 
 
 ### FREDAG: 
 
+# Ressurser
 
-## Oppgaver til Trygve og Frikk
+## Computer-Aided Design
 
-- Lag pause-musikk oppgaver (ca en hver dag) 
-- Lag design med NodeMCU og lysdioder
-- Lag demo av CNC og laser 
-- Book møterom for sesjoner 
+## 3D
+
+##
