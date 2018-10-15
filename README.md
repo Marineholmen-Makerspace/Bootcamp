@@ -53,6 +53,11 @@ OUTPUT PROTOTYPE
 
 # Ressurser
 
+## MicroBit
+
+[Getting Started](https://microbit.org/guide/quick/)
+[Tutorials for most people](https://www.microbit.co.uk/blocks/lessons)
+
 ## Computer-Aided Design
 - Sketchup
 - Fusion360
