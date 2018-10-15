@@ -10,20 +10,20 @@ MÅL: Få ett forhold til hvordan man kan prototype med moderne verktøy (How to
 ## Program 
 
 ### TIRSDAG: 
-- Icebreaker 30 Circles
-- Introduksjon, presentasjon av Frikk & Trygve, omvisning, organiser grupper (1h)
-- Trygve presenterer arduino og microbits (30min) 
-- How to use machines. Frikk kjører lett introduksjon om de ulike maskinene på makerspacet og hvordan de kan brukes.
-
-1. Basert på det vi har vist, lag en idè (30min)
-2. Presenter ideen (1h) 
-3. Lunsj (1h) 
-4. Cardboard challange #1. Microbits vs cardboard (2h) Lag en prototype med lim & papp
+1.  Kickoff 
+2.  Icebreaker #1: Build workspace
+3.  Introduksjon, presentasjon av Frikk & Trygve, organiser grupper (1h)
+4.  Icebreaker Secret Handshake 
+5.  Trygve presenterer arduino og microbits (30min) 
+6.  How to use machines. Frikk kjører lett introduksjon om de ulike maskinene på makerspacet og hvordan de kan brukes.
+7.  Basert på det vi har vist, lag en idè (30min)
+8.  Presenter ideen (1h) 
+9.  Lunsj (1h) 
+10. Cardboard challange #1. Microbits vs cardboard (2h) Lag en prototype med lim & papp
 
 **OUTPUT: Konseptmodell i papp**
 
 ### ONSDAG:
-**Icebreaker Draw your neighboor**
 
 1. Student presenter, gruppene presenterer prototypene.
 2. Frikk kjører en veldig lett intro til fusion / Trygve viser 3d print (1.5h) 
